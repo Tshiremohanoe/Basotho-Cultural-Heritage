@@ -1,0 +1,5 @@
+Live Website URL:https://tshiremohanoe.github.io/Basotho-Cultural-Heritage/
+
+Description
+This is my Basotho Cultural Heritage website, created for the Principles of web Design course.
+It explores Basotho traditions, clothing, music and crafts, and is hosted online using GitHub Pages.
